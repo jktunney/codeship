@@ -6,6 +6,8 @@ A skeleton for building Python applications on Google App Engine with the
 See our other [Google Cloud Platform github
 repos](https://github.com/GoogleCloudPlatform) for sample applications and
 scaffolding for other python frameworks and use cases.
+[Codeship Status (https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master
+)]
 
 ## Run Locally
 1. Install the [App Engine Python SDK](https://developers.google.com/appengine/downloads).
